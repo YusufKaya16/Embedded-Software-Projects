@@ -1,0 +1,3 @@
+MyQueue.c:14:6:IsFull	4	static
+MyQueue.c:24:6:IsEmpty	4	static
+MyQueue.c:34:6:EnQueue	16	static

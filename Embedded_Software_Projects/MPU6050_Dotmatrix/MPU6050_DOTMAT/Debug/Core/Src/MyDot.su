@@ -1,0 +1,3 @@
+../Core/Src/MyDot.c:14:6:Zeros	16	static
+../Core/Src/MyDot.c:23:12:MAX7219_Init	8	static
+../Core/Src/MyDot.c:34:12:MAX_SendData	24	static

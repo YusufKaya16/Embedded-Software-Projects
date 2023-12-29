@@ -1,0 +1,10 @@
+main.c:12:6:UART_Config	8	static
+main.c:50:6:GPIO_Config	8	static
+main.c:65:6:USART2_IRQHandler	8	static
+main.c:79:6:Send_char	16	static
+main.c:86:6:Send_Data	16	static
+main.c:95:6:LedSet	8	static
+main.c:99:6:LedReset	8	static
+main.c:105:5:main	8	static
+main.c:130:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:139:10:EVAL_AUDIO_GetSampleCallBack	4	static

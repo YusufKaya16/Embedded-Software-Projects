@@ -1,0 +1,8 @@
+main.c:11:6:LED_Config	8	static
+main.c:33:6:GPIO_Config	8	static
+main.c:49:6:I2C_Config	8	static
+main.c:65:6:I2C_Write	16	static
+main.c:80:6:I2C_Read	24	static
+main.c:98:5:main	8	static
+main.c:144:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:153:10:EVAL_AUDIO_GetSampleCallBack	4	static

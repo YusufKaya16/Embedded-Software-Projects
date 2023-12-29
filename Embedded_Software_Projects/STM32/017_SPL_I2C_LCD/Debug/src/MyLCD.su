@@ -1,0 +1,8 @@
+MyLCD.c:12:6:Delay	16	static
+MyLCD.c:21:6:Display_Init	8	static
+MyLCD.c:56:6:DisplaySendCommand	32	static
+MyLCD.c:76:6:DisplaySendData	32	static
+MyLCD.c:95:6:DisplaySendString	16	static
+MyLCD.c:103:6:DisplayPutCursor	16	static
+MyLCD.c:118:6:FloatoStr	56	static
+MyLCD.c:130:6:DisplayClear	8	static
